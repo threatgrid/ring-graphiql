@@ -1,0 +1,3 @@
+[submodule "ext/custom-graphiql"]
+	path = ext/custom-graphiql
+	url = git@github.com:shahankit/custom-graphiql.git
