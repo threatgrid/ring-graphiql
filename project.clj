@@ -1,4 +1,4 @@
-(defproject threatgrid/ring-graphiql "0.1.1"
+(defproject threatgrid/ring-graphiql "0.1.2-SNAPSHOT"
   :description "GraphiQL for Ring apps"
   :url "https://github.com/threatgrid/ring-graphiql"
   :license {:name "Eclipse Public License"
